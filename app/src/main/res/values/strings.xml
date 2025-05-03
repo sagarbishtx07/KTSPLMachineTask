@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TestTask</string>
+    <string name="test_assignment">Test Assignment</string>
+    <string name="search">Search</string>
+    <string name="refresh_icon">refresh icon</string>
+    <string name="sports_name">Sports Name</string>
+    <string name="status">Status</string>
+    <string name="sports_status">Sports Status</string>
+    <string name="id_nsrs_sport_id">Id / NSRS Sport Id</string>
 </resources>

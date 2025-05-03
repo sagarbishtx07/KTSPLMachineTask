@@ -38,7 +38,7 @@
             android:id="@+id/sportsName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sports Name"
+            android:text="@string/sports_name"
             android:textStyle="bold"
             android:textSize="13sp" />
     </LinearLayout>
@@ -53,7 +53,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Status"
+            android:text="@string/status"
             android:layout_marginBottom="2dp"
             android:textSize="11sp" />
 
@@ -61,7 +61,7 @@
             android:id="@+id/sportsStatus"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sports Name"
+            android:text="@string/sports_status"
             android:textStyle="bold"
             android:textSize="13sp" />
     </LinearLayout>
@@ -99,7 +99,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Id / NSRS Sport Id"
+            android:text="@string/id_nsrs_sport_id"
             android:textStyle="italic"
             android:textSize="10sp" />
 
@@ -107,7 +107,7 @@
             android:id="@+id/sportsID"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="5/26"
+            android:text="--/--"
             android:textStyle="bold"
             android:layout_marginStart="5dp"
             android:textSize="13sp" />
